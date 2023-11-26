@@ -83,9 +83,9 @@ class Checks:
 
 
 chek = Checks()
-# chek.file_simulation()
-# chek.new_catalog()
-# chek.scan_directory_service()
-# chek.scan_directory()
-# chek.duty()
-chek.delete_all_category()
+chek.file_simulation()
+chek.new_catalog()
+chek.scan_directory_service()
+chek.scan_directory()
+chek.duty()
+#chek.delete_all_category()
